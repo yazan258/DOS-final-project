@@ -31,11 +31,9 @@ This project was developed using java and the spring boot framework. The choice 
 | `/purchase/:book_id` | `Post` | send query for catalog server to buy a book by its `<book_id>` |
 
 # usage
-frontend => 8080
-catalog_server => 8081
-order_server => 8082
-
-run all the servers alone 
+frontend => 8080 <br>
+catalog_server => 8081 <br>
+order_server => 8082 <br>
 
 # Testing
 Frontend address: `http://localhost:8080`.<br>
