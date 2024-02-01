@@ -55,3 +55,8 @@ order-server address: `http://localhost:8082`.<br>
 **purchase Books**
 `http://localhost:8082/purchase/2`<br>
 ![purchase](https://github.com/yazan258/DOS-final-project/assets/79420539/dc606d12-9222-42be-b662-8df9fe1b2f25)
+
+**frontend screen shots**
+![3](https://github.com/yazan258/DOS-final-project/assets/79420539/b1c8eb20-bebe-4d72-ac02-dbcba8fc7fd6)
+
+
