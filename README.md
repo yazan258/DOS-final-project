@@ -59,7 +59,7 @@ order-server address: `http://localhost:8082`.<br>
 **frontend screen shots**
 ![3](https://github.com/yazan258/DOS-final-project/assets/79420539/b1c8eb20-bebe-4d72-ac02-dbcba8fc7fd6)
 ![1](https://github.com/yazan258/DOS-final-project/assets/79420539/4385ecc6-ced4-4617-8a1e-d850972de444)
-![3](https://github.com/yazan258/DOS-final-project/assets/79420539/2aa6c65e-e196-4b07-8eca-378d084426fe)
+![2](https://github.com/yazan258/DOS-final-project/assets/79420539/987db3b8-d1fa-48fc-8291-0dfc31ccc6d9)
 
 
 
