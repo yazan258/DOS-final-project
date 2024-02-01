@@ -23,14 +23,14 @@ This project was developed using java and the spring boot framework. The choice 
 |----------|----------|----------|
 | `/info/:item_number` | `Get` | query all information about a book by its `<item_number>`, returns `JSON` object represinting matching books information. |
 | `/search/:topic` | `Get` | query all the books with the specified `<topic>`, returns `JSON` object represinting matching books information. |
-| `/:book_id` | `Post` | update the stock for book by its `<book_id>` |
+| `/purchase/:book_id` | `Post` | update the stock for book by its `<book_id>` |
 
 **Order Server APIs** 
 | URL | Method | Description |
 |----------|----------|----------|
 | `/purchase/:book_id` | `Post` | send query for catalog server to buy a book by its `<book_id>` |
 
-# usage
+# ports
 frontend => 8080 <br>
 catalog_server => 8081 <br>
 order_server => 8082 <br>
